@@ -63,7 +63,7 @@ html {
     outline: none;
 }
 
-.container .musica-container .box .musica audio::-webkit-media-controls-eclosure  {
+.container .musica-container .box .musica audio::-webkit-media-controls-enclosure {
     background: none;
 }
 
